@@ -4,7 +4,7 @@
 **Affiliation:** Renmin University of China  
 **Research Interests:** Large Language Models, Artificial Intelligence, Machine Learning
 
-Welcome to my personal academic homepage. This page serves to verify my identity for OpenReview and other academic platforms.
+Welcome to my personal academic homepage. 
 
 ---
 
